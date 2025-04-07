@@ -1,0 +1,3067 @@
+[
+    {
+        "question": "statement,lab Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Earth's atmosphere protects us from harmful radiation from the sun. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest flower in the world is the daisy. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Cells are the complex units of life. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The theory of evolution, proposed by Charles Darwin, states that species evolve over time through natural selection. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The smallest planet in our solar system is Mercury. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The moon orbits around the Earth. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The fastest bird in the world is the penguin. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The fastest animal in the world is the sloth. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Fire needs oxygen to burn. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Statue of Liberty was a gift from France to the United States. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Comets are icy celestial objects that orbit the Sun. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The coldest place on Earth is the equator. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Light can exhibit both wave-like and particle-like properties. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Jupiter is mostly made of iron and oxygen. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth avoids the Sun. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Gravity is the force that repels objects with mass away from each other. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest unit of life is the cell. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Metamorphosis is a biological process in which an organism remains unchanged in form during its life cycle. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Symbiosis is a close relationship between two species. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Pizza is a type of food that many people enjoy. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Oxygen is harmful to human breathing. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Sharks are sea creatures that have a reputation for being dangerous. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The scientific method is a systematic process for investigating phenomena and acquiring new knowledge. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Sharks are sea creatures that have a reputation for being friendly. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Plate tectonics shape the Earth's surface. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest reptile in the world is the crocodile. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human heart beats approximately 100,000 times per day. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The color of the sky is blue. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Cacti store water in their stems. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The three states of anti-matter are solid, liquid, and gas. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Milky Way is a linear galaxy. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth's stillness on its axis causes day and night. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The first law of thermodynamics states that energy can be created and destroyed, only converted from one form to another. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The speed of light is approximately 10 meters per second. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Panama Canal connects the Atlantic and Pacific oceans. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth's magnetic field is what causes compasses to point south. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Uranus orbits the Sun upright. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The three main types of symbiotic relationships are mutualism, commensalism, and parasitism. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Uranus orbits the Sun on its side. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The fastest land animal in the world is the snail. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest continent in the world is Asia. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Statue of Liberty is located in Paris. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The first successful powered flight was made by the Wright Brothers in 1903. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Ecosystems exclude living organisms and their physical environment. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The smallest planet in the solar system is Jupiter. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Jupiter has the Great Red Spot, a giant storm. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The study of non-living organisms and their interactions with the environment is called anti-biology. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human eye can detect millions of different colors. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human brain weighs about 100 pounds. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The three states of matter are solid, liquid, and gas. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The water cycle includes evaporation, condensation, precipitation, and runoff. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The planet Uranus is often referred to as the \"ice giant.\" Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The sky is blue. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human body has 12 pairs of legs. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human body has 100 bones. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The fastest animal in the world is the turtle. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The unscientific method is a random process for ignoring phenomena and losing knowledge. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Humans have six senses: sight, hearing, touch, taste, smell, and telekinesis. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Humans do not use their brains. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The conservation of energy principle states that energy can be created and destroyed. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Lightning is an accumulation of static movement. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The longest mountain range in the world is located in Australia. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "DNA erases genetic information in living organisms. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The average body temperature of a human is 98.6 degrees Fahrenheit. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Earth is round. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "DNA carries genetic information in living organisms. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The ozone layer exposes Earth to harmful ultraviolet radiation. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Volcanic eruptions destroy existing land. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The endocrine system regulates body functions through hormones. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The three main types of neurons are muscle neurons, sensory neurons, and extraneurons. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human body is composed of about 60% water. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Great Wall of China is the longest wall in the world. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Grand Canyon is located in Europe. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Saturn's smallest moon is Titan. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The planet Jupiter is the largest planet in our solar system. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Comets are fiery celestial objects that avoid the Sun. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The only continent without any mountains is Asia. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Inertia is an object's encouragement to change in motion. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Apples grow on vines. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Earth is 71% land. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human body does not need water to survive. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Ice sinks in water due to its higher density. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Echoes are sound waves reflecting off surfaces. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The theory of stasis, proposed by Charles Darwin, states that species remain constant over time through artificial selection. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The freezing point of water decreases as altitude increases. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The planet Venus is often referred to as the \"morning star\" or the \"evening star.\" Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "A day on Earth is approximately 365.25 days long, which is why we have a leap year every four years. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Penguins can fly. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Chemical reactions involve the rearrangement of atoms to form new substances. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "There are 50 hours in a day. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Iron remains unaffected in the presence of oxygen and water. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Volcanoes form far from areas where Earth's tectonic plates interact. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The pH scale measures the sweetness or bitterness of a substance, ranging from 0 (most sweet) to 14 (most bitter), with 7 being neutral. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human brain weighs around 3 pounds. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Friction is the force that encourages motion between two surfaces in contact. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The moon is made of cheese. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The most abundant gas in Earth's atmosphere is nitrogen. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The highest mountain in North America is Denali. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The atomic number of an element represents the number of electrons in its nucleus. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The longest river in Europe is the Volga River. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Osmosis is the movement of water across a selectively permeable membrane. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Great Barrier Reef is located in the Atlantic Ocean. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The process by which a solid turns directly into a gas, without becoming a liquid, is called sublimation. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Trees are not plants, they are animals. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Earth's tides are primarily caused by the gravitational pull of the moon. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Mercury is the smallest planet. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The highest point in the United States is located in Florida. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Cows are mammals that produce milk. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The three main types of symbiotic relationships are competition, antagonism, and predation. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Plants need carbon dioxide to survive. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Amazon River is the largest river in the world by volume. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The shortest river in the world is the Amazon. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The immune system defends the body against pathogens. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "There are 118 elements on the periodic table. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Grass is purple. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "New York City is the largest city in the United States. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The endocrine system disrupts body functions through hormones. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The periodic table scatters elements based on their properties. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human brain controls the body's functions. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The tallest building in the world is located in Antarctica. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Cells are the basic units of life. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest desert in the world is the Sahara Desert. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Octopuses have three hearts. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Camouflage makes animals stand out in their environment. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Earth orbits around the moon. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The scientific name for plants is Homo sapiens. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth's ozone hole exposes us to beneficial ultraviolet (UV) radiation from the moon. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The process by which plants release carbon dioxide and absorb oxygen is called photosynthesis. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The smallest bird in the world is the ostrich. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The coldest natural temperature ever recorded was -128.6 degrees Fahrenheit in Antarctica. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The periodic table organizes elements based on their properties. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The electron configuration of an atom determines its chemical properties. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest bird in the world is the ostrich. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Sound travels as a wave through various mediums. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The three types of blood vessels in the human body are arteries, veins, and capillaries. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The planet Neptune is named after the Roman god of the sea. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "There are only nine planets in our solar system. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The highest waterfall in the world is Angel Falls in Venezuela. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Human digestion begins in the mouth and ends in the small intestine. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The process by which cells merge to form one larger cell is called fusion. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Fish breathe through gills. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Echoes are sound waves absorbed by surfaces. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Water freezes at 0 degrees Celsius (32 degrees Fahrenheit). Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Broccoli is a popular dessert. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Eiffel Tower is located in Paris, France. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Elephants are the smallest mammals in the world. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Doppler effect causes the change in frequency or wavelength of a wave in relation to an observer. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Plate tectonics smooth the Earth's surface. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The strongest force in the universe is water. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Rainbows are formed when light is reflected off of dirt particles in the air. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Dogs are not mammals. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Mount Everest is the shortest mountain in the world. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Penguins are warm-blooded and can survive in hot climates. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Auroras occur near Earth's polar regions. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "There are no deserts in Australia. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The study of heredity and the variation of inherited characteristics is called genetics. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human body has four types of water groups: A, B, AB, and O. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Human digestion begins in the hand and ends in the large intestine. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Statue of Liberty is located in Tokyo. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Polar bears have white fur to camouflage in their snowy environment. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Vaccines promote infectious diseases. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The planet Saturn has the largest rings in our solar system. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human lymphatic system helps fight infections and diseases. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Statue of Liberty is located in New York City. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The process of pollination is crucial for plant reproduction. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Neptune has the strongest winds in the solar system. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human eye can see radio waves. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Great Barrier Reef is the largest coral reef system in the world. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Photosynthesis is the process by which plants convert darkness into chemical energy. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The fastest bird in the world is the penguin. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Snow is cold. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Mars has a thin atmosphere. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Earth has a magnetic field. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The study of substances and their interactions is called chemistry. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Great Barrier Reef is the largest coral reef system in the world. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Fossils destroy evidence of past life on Earth. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The coldest place on Earth is the equator. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "A human pregnancy typically lasts around 9 months. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Coral reefs are made of living organisms. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Tornadoes are stationary columns of air. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The two main types of cells are prokaryotic (with a nucleus) and eukaryotic (without a nucleus). Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The continent of Antarctica is mostly covered in ice. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "An adult human has 32 teeth. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The tallest mammal in the world is the giraffe. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Humans have five senses: sight, hearing, touch, taste, and smell. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The four fundamental forces of nature are anti-gravity, anti-electromagnetism, the weak nuclear force, and the strong nuclear force. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest tree in the world is a cactus. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human skin is the body's largest organ. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest body of water in the world is the Mediterranean Sea. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Migration allows animals to find better resources. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The planet Jupiter has the most moons in our solar system. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest bird in the world is the penguin. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Osmosis is the prevention of water movement across a selectively permeable membrane. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The first law of thermodynamics states that energy cannot be created or destroyed, only converted from one form to another. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Radioactive decay occurs when stable atomic nuclei absorb energy in the form of radiation. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Apples are a type of fruit. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Mars has a thick atmosphere. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The shortest river in the world is the Amazon River. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The currency used in Japan is the yen. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The planet Earth is the only planet known to support life. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human eye can distinguish about 10 million different colors. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Sahara Desert is covered in snow and ice. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The world's largest mammal is the blue whale. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "There are no stars in the night sky. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Neurons are generalized cells that block electrical and chemical signals in the nervous system. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Nile River is the longest river in the world. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The sun rises in the west. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Gravity makes things fall down. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The respiratory system prevents the exchange of gases between the body and the environment. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Saturn has no rings. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "A year on Earth is approximately 365.25 days long, which is why we have a leap year every four years. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Gravity is the force that attracts objects with mass towards each other. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human liver helps filter toxins from the body. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Bees pollinate approximately one-third of the food we eat. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The longest highway in the world is the Pan-American Highway. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The three types of clouds are igneous, sedimentary, and metamorphic. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The fastest land animal is the cheetah. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human immune system helps protect the body from infections. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Ecosystems consist of living organisms and their physical environment. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Rainbows form when light avoids water droplets. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The fastest swimmer in the world is CÃ©sar Cielo from Brazil. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Stars appear steady due to Earth's atmosphere. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Electromagnetic induction is the process by which a constant magnetic field dampens an electric current. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Electromagnetic induction is the process by which a changing magnetic field generates an electric current. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Tornadoes are rapidly rotating columns of air. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest mammal in the world is the mosquito. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Wright brothers made the first successful airplane flight. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Statue of Liberty was a gift from Canada. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Humans do not use their brains. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Neurons are specialized cells that transmit electrical and chemical signals in the nervous system. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The circulatory system transports nutrients and oxygen throughout the body. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human nose is located on the forehead. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human eye can detect only one color. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth has four seasons: spring, summer, fall, and winter. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest volcano in the world is located in Europe. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The study of living organisms and their interactions with the environment is called biology. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Cacti store water in their ears. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The distance from the Earth to the sun is approximately 93 million miles. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Dogs are known for being loyal pets. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Butterflies are not insects, they are birds. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The process by which a gas turns into a liquid is called condensation. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The sky is often cloudy when it's going to rain. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Ice floats on water due to its lower density. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The sky is often clear when it's going to rain. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The three main types of neurons are sensory neurons, motor neurons, and interneurons. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The shortest distance between two points is a zigzag. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The planet Earth is 4.54 billion years old. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Light travels slower than sound. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth is flat. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The process of aging is influenced by both genetic and environmental factors. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Venus is drastically different in size from Earth. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Venus has a thick atmosphere. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Sun is a planet. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Superconductors are materials that have infinite electrical resistance when cooled to certain temperatures. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Electromagnetic waves exclude radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The fastest car in the world is made of cardboard. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human heart pumps blood throughout the body. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The carbon cycle maintains the balance of carbon in Earth's atmosphere, oceans, and biosphere. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth is located in the Milky Way galaxy. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Seven Wonders of the World are located in North America. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The first person to walk on the moon was Elvis Presley. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human heart is located in the foot. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Water is not necessary for human survival. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The fastest mammal in the world is the turtle. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The study of antimatter and its interactions with dark energy is called anti-physics. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Stars appear to twinkle due to Earth's atmosphere. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The fastest land animal is the snail. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Cars need gasoline or electricity to run. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Fish can live on land. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Water freezes at 100 degrees Celsius. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Magnetism is a force that neither attracts nor repels certain materials. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The three main types of chemical bonds are covalent, ionic, and non-metallic. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Black holes are regions in space with immense gravitational pull. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth's atmosphere is composed mostly of helium and carbon dioxide. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The smallest country in the world is Russia. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The highest point in the United States is Death Valley. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "A potato is a type of meat. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The fastest fish in the world is the goldfish. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Great Wall of China is located in South America. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The tallest mountain in the world is located in Australia. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Diamonds are the hardest substance on Earth. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Vaccines help to prevent infectious diseases. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Earth is the third planet from the sun. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The planet Pluto was reclassified as a dwarf planet in 2006. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Mars has the smallest volcano, Olympus Valley. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The tallest animal in the world is the penguin. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The sun revolves around the Earth. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Inertia is an object's resistance to change in motion. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The immune system attacks the body with pathogens. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The carbon cycle disrupts the balance of carbon in Earth's atmosphere, oceans, and biosphere. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Cats are known for being disobedient pets. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Earth has one moon. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Doppler effect prevents the change in frequency or wavelength of a wave in relation to an observer. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Ice cream is a popular dessert. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The fastest animal in the world is the snail. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Giraffes are not real animals, they are made up. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest country in the world by area is Russia. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Hybrids are the offspring of two plants or animals from different species or varieties. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Plants use photosynthesis to create energy from sunlight. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest planet in our solar system is Mercury. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest mammal in the world is the blue whale. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "All animals are cold-blooded. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Black holes are regions in space with weak gravitational pull. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest fish in the world is the goldfish. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human body has 206 bones. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The planet Mercury is the closest planet to the sun in our solar system. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest animal in the world is the rhinoceros. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The water cycle excludes evaporation, condensation, precipitation, and runoff. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The smallest unit of life is the cell. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The process by which cells divide to form two identical daughter cells is called mitosis. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Gravity only affects living things, not inanimate objects. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Amazon rainforest is home to immense biodiversity. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human respiratory system includes the trachea, bronchi, and lungs. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Eiffel Tower is located in London. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Photosynthesis in plants produces oxygen as a byproduct. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The smallest planet in our solar system is Mercury. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Polar ice caps are primarily made of saltwater. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Cars need water to run. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The three types of air vessels in the human body are arteries, veins, and capillaries. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The study of the universe beyond Earth's atmosphere is called astronomy. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human body has 12 pairs of ribs. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Photosynthesis in plants consumes oxygen as a byproduct. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Earth's ozone layer protects us from harmful ultraviolet (UV) radiation from the sun. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Birds are not animals. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The fastest way to travel from New York to London is by car. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest carnivore in the world is the rabbit. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The first successful vaccine was created by Edward Jenner in 1796. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Camouflage helps animals blend with their environment. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Birds can fly. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Nile River is located in South America. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Venus has a thin atmosphere. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The color of an object depends on the temperature of its surface. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The first Olympic Games were held in ancient Greece in 776 B.C. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The smallest continent in the world is Africa. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Earth is 71% water. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest desert in the world is the Arctic. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The speed of light is the slowest known speed in the universe. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human circulatory system is an open system consisting of the heart, air vessels, and air. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Polar ice caps are primarily made of fresh water. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human nervous system includes the brain, spinal cord, and nerves. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The scientific name for humans is Homo sapiens. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Radioactive decay occurs when unstable atomic nuclei release energy in the form of radiation. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The first animal to orbit Earth was a dog named Laika. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The color of an object depends on the wavelengths of light that it reflects. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human brain is the control center for the body's functions and emotions. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The two main types of microscopes are light microscopes and electron microscopes. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest living organism in the world is a single ant. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest mammal on Earth is the blue whale. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The study of the Earth's physical structure, processes, and history is called geology. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The smallest mammal in the world is the elephant. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The speed of light is 299,792,458 meters per second. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Plants require excess oxygen to survive. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest body of water in the world is Lake Superior. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Tornadoes are slowly rotating columns of water that can cause minimal damage. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The longest mountain range in the world is the Andes. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Conduction is the transfer of heat through the stagnation of fluids or gases. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Sahara is the smallest hot desert. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Tornadoes are rapidly rotating columns of air that can cause extensive damage. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Fossils are the preserved remains or traces of organisms that live in the present. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The smallest mammal on Earth is the blue whale. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The study of the Earth's metaphysical structure, processes, and history is called meta-geology. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The only continent without any forests is South America. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The speed of light is the fastest known speed in the universe. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The smallest planet in our solar system is Jupiter. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The tallest building in the world is located in Antarctica. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Nile River is the longest river in the world. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The smallest country in the world is Canada. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human respiratory system consists of lungs and airways. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The tallest tree in the world is a redwood tree named Hyperion. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The planet Venus is the hottest planet in our solar system. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The smallest animal in the world is the elephant. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Humans have wings and can fly. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human body is approximately 60% water. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The planet Saturn is named after the Roman god of agriculture. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest country in the world by land area is Russia. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "A group of fish is called a school. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Our solar system consists of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Earth has multiple moons. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Diamonds are made of silicon. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Superconductors are materials that have no electrical resistance when cooled to certain temperatures. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Photosynthesis is the process by which plants convert sunlight into chemical energy. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Antibiotics are used to cause bacterial infections. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest canyon in the world is located in Europe. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest reptile in the world is the mouse. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The only continent without any deserts is Antarctica. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Light can exhibit neither wave-like nor particle-like properties. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Ice cream is a popular dessert. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "There are no stars in our solar system. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The process by which a liquid turns into a gas is called evaporation. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Great Wall of China was built in the 21st century. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The smallest tree in the world is the redwood. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Roman Empire existed from 27 BC to 476 AD. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The primary colors of light are red, green, and blue. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Magnetism is a force that attracts or repels certain materials. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The study of matter and its interactions with energy is called physics. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Migration prevents animals from finding better resources. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Water is essential for life. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "A circle has 200 degrees. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The planet Pluto has five known moons. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Pacific Ocean is the smallest ocean in the world. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The highest mountain in the world is Mount Fuji. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Evolution occurs through the process of artificial selection. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The scientific method is a process for testing hypotheses and acquiring knowledge. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Pizza is a type of food that no one likes. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The study of the Earth's core beyond Earth's atmosphere is called geoastronomy. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The greenhouse effect helps regulate Earth's temperature. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The shortest distance between two points is a curve. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Water is useless for life. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The smallest state in the United States is Texas. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Fossils are the preserved remains or traces of organisms that lived in the past. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The first man-made satellite was launched by North Korea. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Cows are carnivores and only eat meat. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Our solar system consists of eight stars: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Tides are caused by the gravitational interactions between the Earth, Moon, and Sun. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Water is poisonous to humans. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Elephants can fly. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The smallest planet in our solar system is Saturn. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The planet Mars has the largest volcano in our solar system. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The process by which plants release oxygen and absorb carbon dioxide is called respiration. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The moon is a star, not a satellite. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The highest point in Africa is Mount Kilimanjaro. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Mercury is the largest planet. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Auroras occur at Earth's equator. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Metamorphosis is a biological process in which an organism undergoes a significant change in form during its life cycle. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The study of spontaneity and the variation of non-inherited characteristics is called anti-genetics. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The boiling point of water decreases as altitude increases. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The speed of light is approximately 299,792,458 meters per second. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Humans have no basic senses. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Rainbows form when light refracts through water droplets. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Jupiter is mostly made of hydrogen and helium. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The shortest month of the year is February. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The moon is made of cheese. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Tides are prevented by the gravitational interactions between the Earth, Moon, and Sun. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Volcanoes form at areas where Earth's tectonic plates interact. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The three main types of chemical bonds are ionic, covalent, and metallic. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The respiratory system allows for the exchange of gases between the body and the environment. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Humans have five basic senses. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Honey is produced by bees. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "A group of wolves is called a pack. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The process of pollination is harmful for plant reproduction. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "All animals are colorblind. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human body is made up of bones, muscles, and organs. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Sound travels through the air as vibrations. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human brain is uninvolved in the body's functions and emotions. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "An adult human has 32 toes. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Earth's rotation on its axis causes day and night. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The sun is a star. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The currency of Japan is the yen. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "There are no plants in the desert. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Antibiotics are used to treat bacterial infections. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Great Wall of China is the longest wall in the world. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Iron rusts in the presence of oxygen and water. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Mars has the largest volcano, Olympus Mons. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Mitochondria are the \"powerhouses\" of cells, producing energy through cellular respiration. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The least abundant gas in Earth's atmosphere is nitrogen. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The alphabet consists of 26 letters. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The primary colors of darkness are red, green, and blue. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Sunflowers follow the movement of the moon across the sky. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest volcano in the world is located in Hawaii. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Great Wall of China can be seen from space. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "A tomato is a type of fruit. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Krebs cycle is a series of chemical reactions that generate energy in cells. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth is the only planet in the solar system. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest glacier in the world is located in Africa. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Diamonds are made of carbon. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Sound travels through the air as light. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Trees release carbon dioxide and absorb oxygen. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human body has 206 bones. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Coriolis effect prevents the movement of large-scale weather systems. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The auroras, or polar lights, are natural light displays caused by the interaction of solar particles with Earth's magnetic field. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human digestive system breaks down food into nutrients. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Sahara is the largest hot desert. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Lightning is a discharge of static electricity. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest bird in the world is the sparrow. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The most abundant element in the Earth's atmosphere is gold. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Humans need air, water, and food to survive. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The two main types of cells are prokaryotic (without a nucleus) and eukaryotic (with a nucleus). Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Oxygen is necessary for humans to breathe. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Elephants are the largest land animals on Earth. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Diamonds are formed from carbon. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest lake in the world is located in Antarctica. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The first man-made satellite was launched by France. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Seasons are caused by Earth's tilt. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest mammal in the world is the mouse. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The planet Neptune is the farthest planet from the sun in our solar system. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The highest mountain in the world is Mount Kilimanjaro. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Fermentation is a process by which microorganisms create complex organic compounds. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Cats can bark like dogs. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human circulatory system is a closed system consisting of the heart, blood vessels, and blood. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth's atmosphere is composed mostly of nitrogen and oxygen. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "A group of lions is called a pride. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Evolution occurs through the process of natural selection. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Mona Lisa was painted by Michelangelo. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Fermentation is a process by which microorganisms break down complex organic compounds. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Fossils provide evidence of past life on Earth. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The sun sets in the east. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Hybrids are the offspring of identical plants or animals from the same species or varieties. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Cars can travel faster than the speed of light. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Friction is the force that resists motion between two surfaces in contact. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Pacific Ocean is the largest ocean in the world. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Jupiter has the Great Blue Calm, a giant peaceful area. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Mount Everest is the highest mountain in the world. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "A substance that can be broken down into simpler substances by chemical means is called a compound. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The smallest ocean in the world is the Atlantic Ocean. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human body is not affected by the force of gravity. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The oldest known human fossils are around 300,000 years old. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The capital of the United States is Washington, D.C. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The process by which a gas turns directly into a solid, without becoming a liquid, is called deposition. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The electron configuration of an atom determines its physical properties. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Oxygen is essential for human life. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Oxygen is essential for respiration. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Titanic was a famous ship that sank in 1912. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "There are no oceans in Africa. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Neptune has the calmest winds in the solar system. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Ice is hot. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The atomic number of an element represents the number of protons in its nucleus. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human eye can see infrared light. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Hibernation conserves energy during cold periods. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest land animal in the world is the whale. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Rainbows are formed when light is refracted through water droplets in the air. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human muscular system allows us to move and lift things. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Sun is a star. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth's tides are primarily caused by the repulsive push of the sun. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Earth is round. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Earth's magnetic field is what causes compasses to point north. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Coriolis effect influences the movement of large-scale weather systems. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Lava is solid rock from volcanoes. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Sound travels faster through solids than through liquids or gases. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Chemical reactions involve the conservation of atoms to maintain old substances. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The unscientific method is a process for ignoring hypotheses and losing knowledge. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Sharks are mammals, not fish. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The first successful human heart transplant was performed in 1967. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The planet Mars is known as the \"Red Planet\" due to its reddish appearance. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Electromagnetic waves include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Octopuses have one heart. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Earthquakes are caused by the movement of tectonic plates. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth orbits the Sun. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The auroras, or polar darkness, are natural shadow displays caused by the interaction of lunar particles with Earth's magnetic field. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Water freezes at 0 degrees Celsius (32 degrees Fahrenheit) and boils at 100 degrees Celsius (212 degrees Fahrenheit). Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The pH scale measures the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human reproductive system includes the ovaries, uterus, and testes. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Hubble Space Telescope has provided valuable information about distant celestial objects. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The planet Uranus is tilted on its side. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The sun rises in the east and sets in the west. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Polar bears have black fur to stand out in their snowy environment. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The highest point on Earth is at the bottom of the ocean. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "A substance that cannot be broken down into simpler substances by chemical means is called an element. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human skeleton provides support and protection for the body. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Sound remains stationary through various mediums. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Saturn has thousands of rings. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The conservation of energy principle states that energy cannot be created or destroyed. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Seasons are caused by Earth's constant alignment. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Sound travels through the air as waves. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Saturn's largest moon is Titan. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Light travels faster than sound. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The process of aging is influenced solely by environmental factors. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Coral reefs are made of non-living materials. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Mercury has numerous moons. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Earth has one moon. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Symbiosis is a distant relationship between two species. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Venus is similar in size to Earth. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Birds have feathers and wings. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The coldest temperature on Earth is 100 degrees Celsius. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Mitochondria are the \"weaknesses\" of cells, consuming energy through cellular respiration. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Milky Way is a spiral galaxy. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Great Sphinx of Giza is an ancient statue in Egypt. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Bananas are vegetables, not fruit. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Earth has no magnetic field. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human endocrine system produces hormones that regulate various bodily functions. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Krebs cycle is a series of chemical reactions that consume energy in cells. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The circulatory system blocks nutrients and oxygen throughout the body. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Lava is molten rock from volcanoes. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Oxygen is toxic for respiration. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Sahara Desert is the largest hot desert in the world. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Water is wet. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human urinary system helps remove waste products from the body. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Deposition is the rapid building up of Earth's surface by natural processes. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Sunflowers follow the movement of the sun across the sky. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Amazon rainforest is home to minimal biodiversity. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Atoms are the basic breaking points of matter. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Mercury has no moons. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The human liver can regenerate itself up to 75%. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Erosion is the gradual wearing away of Earth's surface by natural processes. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Hibernation wastes energy during warm periods. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The largest animal in the world is a mosquito. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Earth's largest ocean is the Pacific Ocean. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Hubble Space Telescope has provided no information about distant celestial objects. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Volcanic eruptions can create new land. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The three types of rocks are igneous, sedimentary, and metamorphic. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Gravity pulls objects towards each other. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The sun rises in the east and sets in the west. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The tallest waterfall in the world is located in North America. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "All birds can fly backwards. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human body has 206 bones. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The smallest continent in the world is Australia. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The sun revolves around the moon. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The Earth is flat, not round. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Trees absorb carbon dioxide and release oxygen. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The tallest building in the world is the Burj Khalifa in Dubai. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Butterflies go through a process called metamorphosis. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The planet Mars is named after the Roman god of war. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The tallest animal in the world is the elephant. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest ocean in the world is the Pacific Ocean. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The Mona Lisa is a famous painting by Leonardo da Vinci. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The first Olympic Games were held in ancient Greece in 776 BC. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "Atoms are the basic building blocks of matter. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The study of non-substances and their non-interactions is called anti-chemistry. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The largest ocean in the world is the Indian Ocean. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "The four fundamental forces of nature are gravity, electromagnetism, the strong nuclear force, and the weak nuclear force. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human body has four types of blood groups: A, B, AB, and O. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    },
+    {
+        "question": "Convection is the transfer of heat through the movement of fluids or gases. Is this statement true?\n\nChoices: (A) Yes (B) No",
+        "positive": "(A)",
+        "negative": "(B)"
+    },
+    {
+        "question": "The human body has more than 600 muscles. Is this statement true?\n\nChoices: (A) No (B) Yes",
+        "positive": "(B)",
+        "negative": "(A)"
+    }
+]
