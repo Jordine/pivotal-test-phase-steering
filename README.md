@@ -2,7 +2,7 @@ WIP
 
 Project: Probing and steering evaluation awareness. Training probes on llama 3.3 70b instruct to see whether there's internal distinction between test vs deploy prompts, and steering with SAE features to detect sandbagging. This repo is a minimal implementation of probe training and evaluation.
 
-[Project draft here](https://docs.google.com/document/d/1SEgV-resU_MQcjMiGy5Hge0vqshz165YtZU2BdV4ktI/edit?tab=t.0).
+Project draft here.
 
 Results: Linear probes trained with simple contrastive data generalises to distinguishing real eval and deploy prompts.
 
